@@ -1,0 +1,12 @@
+kuu , 2 , game1
+kuu , 2 , game 1
+kuu , 4 , game 2
+kuu , 6 , game 3
+kuu , 9 , game 4
+uik , 4 , game 2
+ool , 2 , game 1
+lool , 2 , game 1
+iii , 2 , game 1
+yuuu , 2 , game 1
+yuuu , 4 , game 2
+pop , 6 , game 3
